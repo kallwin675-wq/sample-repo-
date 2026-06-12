@@ -56,3 +56,31 @@ var s= 10
 var z =30
 var result = (s > z) ? "s is greater than z" : "s is not greater than z"
 console.log(result)
+
+
+//data types 
+console.log("Wecome to primitive data types ")
+var number = 42; // Number
+console.log(number)
+var string = "Hello, World!"; // String
+console.log(string)
+var boolean = true; // Boolean
+console.log(boolean)
+var bigInt = 9007199254740991n // BigInt
+console.log(bigInt)
+var symbol = Symbol("unique") // Symbol
+console.log(symbol)
+var nullValue = null; // Null
+console.log(nullValue)
+
+//non-primitive data types
+console.log("Wecome to non-primitive data types ")
+var object = { name: "Alice", age: 30 }; // Object
+console.log(object)
+var array = [1, 2, 3, 4, 5]; // Array
+console.log(array[0])
+console.log(array.length)
+var functionExample = function() { // Function
+    console.log("This is a function");
+}
+console.log(functionExample)
