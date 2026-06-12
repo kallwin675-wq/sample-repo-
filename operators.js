@@ -1,5 +1,5 @@
 //arithmetic operators
-/*console.log("Arithmetic Operators:")
+console.log("Arithmetic Operators:")
 let a = 10;
 let b = 5;
 console.log(a + b); // Addition
@@ -19,7 +19,7 @@ console.log(c);
 c *= 5; // c = c * 5
 console.log(c);
 c /= 5; // c = c / 5
-console.log(c);*/
+console.log(c);
 
 //comparison operators
 console.log("Comparison Operators:")
