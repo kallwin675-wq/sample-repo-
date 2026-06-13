@@ -84,3 +84,5 @@ var functionExample = function() { // Function
     console.log("This is a function");
 }
 console.log(functionExample)
+
+//
